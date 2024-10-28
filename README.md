@@ -9,3 +9,6 @@ Este proyecto es una aplicación web construida con Streamlit que permite explor
 - Visualización de histogramas para analizar la distribución de datos.
 - Generación de gráficos de dispersión para observar relaciones entre variables.
 - Interfaz de usuario sencilla e intuitiva.
+## Enlace a la Aplicación
+Puedes acceder a la aplicación web en el siguiente enlace: https://proyecto-sprint-6.onrender.com/
+
